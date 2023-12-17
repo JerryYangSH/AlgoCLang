@@ -1,0 +1,25 @@
+HEAP     ORDER    COUNT    TOTAL LAT(us) AVG LAT(us/1K OPS)
+MinHeap  REV           100           41         410
+MinHeap  REV          1000          331         331
+MinHeap  REV         10000         4142         414
+MinHeap  REV        100000        41733         417
+MinHeap  REV       1000000       477238         477
+MinHeap  REV      10000000      5467372         546
+MinHeap  SEQ           100           23         230
+MinHeap  SEQ          1000          169         169
+MinHeap  SEQ         10000         1772         177
+MinHeap  SEQ        100000        16458         164
+MinHeap  SEQ       1000000       120227         120
+MinHeap  SEQ      10000000      1242889         124
+MaxHeap  REV           100           17         170
+MaxHeap  REV          1000          128         128
+MaxHeap  REV         10000         1177         117
+MaxHeap  REV        100000        12928         129
+MaxHeap  REV       1000000       129320         129
+MaxHeap  REV      10000000      1287153         128
+MaxHeap  SEQ           100           24         240
+MaxHeap  SEQ          1000          244         244
+MaxHeap  SEQ         10000         3917         391
+MaxHeap  SEQ        100000        39774         397
+MaxHeap  SEQ       1000000       444061         444
+MaxHeap  SEQ      10000000      5316898         531
